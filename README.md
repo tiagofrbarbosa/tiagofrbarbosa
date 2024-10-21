@@ -11,3 +11,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
+
+
+
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrbarbosa&layout=compact&hide=jupyter%20notebook" />
+</div>
