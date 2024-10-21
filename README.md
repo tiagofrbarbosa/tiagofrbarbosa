@@ -12,8 +12,10 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
 
-
+<div align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrbarbosa&layout=compact&hide=jupyter%20notebook" />
+</div>
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrbarbosa&layout=compact&hide=jupyter%20notebook" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofrbarbosa&hide_border=true" />
 </div>
