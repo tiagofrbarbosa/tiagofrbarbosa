@@ -16,15 +16,3 @@
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="git" />
 </div>
-
-<div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrbarbosa&layout=compact&hide=html" />
-</div>
-
-<div align="center">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofrbarbosa&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
-</div>
